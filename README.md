@@ -12,7 +12,7 @@
 # Hi, I'm Jack Osei 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff6900&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer+%7C+Product+Engineer;Building+Production-Ready+Web+Solutions;Turning+Requirements+into+Scalable+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff6900&center=true&vCenter=false&width=600&lines=Frontend+Web+Developer+%7C+Product+Engineer;Building+Production-Ready+Web+Solutions;Turning+Requirements+into+Scalable+Code" alt="Typing SVG" />
 </div>
 
 Based in Dubai, UAE. I build and optimize production websites, marketing platforms, and automation-driven systems. Strong at integrating front-end experiences with CRM, analytics, and backend services to support lead generation, conversion, and growth.
