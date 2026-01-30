@@ -2,11 +2,9 @@
 
 [[GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackosei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/jackosei)
 
-[[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackosei&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/jackosei)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackosei&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/jackosei)
 
-[[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
 
 ![Jack's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackosei&theme=tokyo-night&hide_border=true&bg_color=0d1117)
 
