@@ -6,7 +6,7 @@
 
 Based in Dubai, UAE. I build and optimize production websites and web applications, marketing platforms, and automation-driven systems. Strong at integrating front-end experiences with CRM, analytics, and backend services to support lead generation, conversion, and growth.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=dark&hide_border=true&background=0d1117)](https://github.com/jackosei)
 
 ## What I Do
 
