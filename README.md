@@ -1,14 +1,14 @@
 # Hi, I'm Jack Osei 👋
 
-**Frontend Web Developer | Product Engineer**
+**Fullstack Web Developer | Product Engineer**
 
 Based in Dubai, UAE. I build and optimize production websites, marketing platforms, and automation-driven systems. Strong at integrating front-end experiences with CRM, analytics, and backend services to support lead generation, conversion, and growth.
 
 ## What I Do
 
-- 🎨 **Web Design & Development** - Building production-ready websites and marketing platforms
+- 🎨 **Web Design & Development** - Building production-ready websites and web applications
 - 🚀 **Performance Optimization** - Delivering blazing-fast sites with perfect PageSpeed scores
-- 📈 **SEO & Analytics** - Ranked 4 commercial websites in top 3 on Google for high-value keywords
+- 📈 **SEO & Analytics** - Ranked 4 commercial websites in top 3 on Google for high-value keywords, in the UAE
 - 🔧 **Product Engineering** - Translating business requirements into simple, maintainable solutions
 - 💼 **Client Success** - Supporting revenue-generating digital products across multiple brands
 
@@ -76,7 +76,7 @@ Built and maintained large-scale React-based ordering and booking applications f
 - Mentoring development team and establishing code quality standards
 - Collaborating with stakeholders to translate business requirements into technical roadmaps
 
-**Web Developer** @ Meraki Kitchen LLC, Wyoming, USA (Remote - Part time) (January 2025 - Present)
+**Fullstack Web Developer** @ Meraki Kitchen LLC, Wyoming, USA (Remote - Part time) (January 2025 - Present)
 
 - Building and maintaining production website using Astro, React, and Tailwind CSS
 - Implementing SEO strategies and performance optimizations for improved search rankings
