@@ -8,8 +8,6 @@ Based in Dubai, UAE. I build and optimize production websites and web applicatio
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
 
-![](https://ghchart.rshah.org/ff6900/jackosei)
-
 ## What I Do
 
 - 🎨 **Web Design & Development** - Building production-ready websites and web applications
@@ -47,19 +45,6 @@ Modern portfolio built with Astro v5 and Tailwind CSS v4. Features automatic the
 ### Production Work
 
 Built and maintained large-scale React-based ordering and booking applications for [Foodie Holdings](https://foodieholdings.com), serving real customers across multiple brands including [Blast Catering](https://blastcatering.com), [Dish.ae](https://dish.ae), and [Plant Power Dubai](https://plantpowerdubai.com).
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackosei&theme=tokyonight)
-
-![](https://github.com/jackosei/jackosei/blob/output/github-contribution-grid-snake.svg)
-
-![Metrics](https://metrics.lecoq.io/jackosei?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&config.timezone=Asia%2FDubai)
-
-![](https://github-readme-stats.vercel.app/api?username=jackosei&show_icons=true&theme=radical&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackosei&layout=compact&theme=radical)
-
-![](https://github-profile-trophy.vercel.app/?username=jackosei&theme=tokyonight&no-frame=true&row=1&column=6)
-
-![](https://ghchart.rshah.org/ff6900/jackosei)
 
 ## Professional Experience
 
