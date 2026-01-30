@@ -11,7 +11,7 @@
 
 # Hi, I'm Jack Osei 👋
 
-<div align="center">
+<div align="start">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff6900&center=true&vCenter=false&width=600&lines=Frontend+Web+Developer+%7C+Product+Engineer;Building+Production-Ready+Web+Solutions;Turning+Requirements+into+Scalable+Code" alt="Typing SVG" />
 </div>
 
