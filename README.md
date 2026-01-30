@@ -1,7 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
-
-![Jack's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackosei&theme=tokyo-night&hide_border=true&bg_color=0d1117)
-
 # Hi, I'm Jack Osei 👋
 
 <div align="start">
@@ -10,6 +6,10 @@
 
 Based in Dubai, UAE. I build and optimize production websites and web applications, marketing platforms, and automation-driven systems. Strong at integrating front-end experiences with CRM, analytics, and backend services to support lead generation, conversion, and growth.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
+
+![Jack's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackosei&theme=tokyo-night&hide_border=true&bg_color=0d1117)
+
 ## What I Do
 
 - 🎨 **Web Design & Development** - Building production-ready websites and web applications
@@ -17,31 +17,6 @@ Based in Dubai, UAE. I build and optimize production websites and web applicatio
 - 📈 **SEO & Analytics** - Ranked 4 commercial websites in top 3 on Google for high-value keywords, in the UAE
 - 🔧 **Product Engineering** - Translating business requirements into simple, maintainable solutions
 - 💼 **Client Success** - Supporting revenue-generating digital products across multiple brands
-
-## Tech Stack
-
-**Frontend**
-
-- React.js, Next.js, Astro, Redux
-- TypeScript, JavaScript, PHP
-- Tailwind CSS, Bootstrap, HTML5, CSS3
-
-**Backend & Database**
-
-- Node.js, Express.js
-- MongoDB, MySQL, Firebase (Auth, Firestore)
-
-**Design & CMS**
-
-- UI/UX Design (Figma), Wireframing, Prototyping
-- WordPress, Webflow
-
-**Tools & DevOps**
-
-- Git, GitHub, BitBucket
-- Docker, AWS, Azure, Vercel, Netlify
-- CI/CD, Redis
-- Google Analytics & Tag Manager
 
 ## Featured Projects
 
@@ -106,6 +81,32 @@ Built and maintained large-scale React-based ordering and booking applications f
 - 🔨 Building conversion-focused websites for growing businesses
 - 📚 Completing Front-end Developer Career Path (Scrimba, 2026)
 - 🌱 Exploring AI in Web Development, advanced web performance optimization and modern frameworks
+
+## Tech Stack
+
+**Frontend**
+
+- React.js, Next.js, Astro, Redux
+- TypeScript, JavaScript, PHP
+- Tailwind CSS, Bootstrap, HTML5, CSS3
+
+**Backend & Database**
+
+- Node.js, Express.js
+- MongoDB, MySQL, Firebase (Auth, Firestore)
+
+**Design & CMS**
+
+- UI/UX Design (Figma), Wireframing, Prototyping
+- WordPress, Webflow
+
+**Tools & DevOps**
+
+- Git, GitHub, BitBucket
+- Docker, AWS, Azure, Vercel, Netlify
+- CI/CD, Redis
+- Google Analytics & Tag Manager
+
 
 ## Let's Connect
 
