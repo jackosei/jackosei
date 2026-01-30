@@ -34,7 +34,7 @@ Production-ready image compression tool with dual architecture: web-based interf
 
 ---
 
-### [Jack Osei Portfolio](https://jackosei.com)
+### [Jack Osei - Freelancer Portfolio](https://jackosei.com)
 
 Modern portfolio built with Astro v5 and Tailwind CSS v4. Features automatic theme switching, 3D elements, and 100/100 PageSpeed score.
 
