@@ -6,6 +6,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jackosei&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jackosei)
+
+![Jack's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackosei&theme=tokyo-night&hide_border=true&bg_color=0d1117)
+
 # Hi, I'm Jack Osei 👋
 
 <div align="start">
