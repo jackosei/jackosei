@@ -6,15 +6,7 @@
 
 Based in Dubai, UAE. I build and optimize production websites and web applications, marketing platforms, and automation-driven systems. Strong at integrating front-end experiences with CRM, analytics, and backend services to support lead generation, conversion, and growth.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jackosei&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## What I Do
-
-- 🎨 **Web Design & Development** - Building production-ready websites and web applications
-- 🚀 **Performance Optimization** - Delivering blazing-fast sites with perfect PageSpeed scores
-- 📈 **SEO & Analytics** - Ranked 4 commercial websites in top 3 on Google for high-value keywords, in the UAE
-- 🔧 **Product Engineering** - Translating business requirements into simple, maintainable solutions
-- 💼 **Client Success** - Supporting revenue-generating digital products across multiple brands
 
 ## Featured Projects
 
@@ -83,6 +75,8 @@ Built and maintained large-scale React-based ordering and booking applications f
 ## Tech Stack
 
 **Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,redux&theme=dark)](https://skillicons.dev)
 
 - React.js, Next.js, Astro, Redux
 - TypeScript, JavaScript, PHP
