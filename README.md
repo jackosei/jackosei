@@ -6,7 +6,23 @@
 
 Based in Dubai, UAE. I build and optimize production websites and web applications, marketing platforms, and automation-driven systems. Strong at integrating front-end experiences with CRM, analytics, and backend services to support lead generation, conversion, and growth.
 
+## Tech Stack
 
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,redux,ts,js,php,tailwind,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+
+**Backend & Database**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark)](https://skillicons.dev)
+
+**Design & CMS**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,wordpress,webflow,shopify&theme=dark)](https://skillicons.dev)
+
+**Tools & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,docker,aws,azure,vercel,netlify,redis,&theme=dark)](https://skillicons.dev)
 
 ## Featured Projects
 
@@ -71,34 +87,6 @@ Built and maintained large-scale React-based ordering and booking applications f
 - 🔨 Building conversion-focused websites for growing businesses
 - 📚 Completing Front-end Developer Career Path (Scrimba, 2026)
 - 🌱 Exploring AI in Web Development, advanced web performance optimization and modern frameworks
-
-## Tech Stack
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,astro,redux&theme=dark)](https://skillicons.dev)
-
-- React.js, Next.js, Astro, Redux
-- TypeScript, JavaScript, PHP
-- Tailwind CSS, Bootstrap, HTML5, CSS3
-
-**Backend & Database**
-
-- Node.js, Express.js
-- MongoDB, MySQL, Firebase (Auth, Firestore)
-
-**Design & CMS**
-
-- UI/UX Design (Figma), Wireframing, Prototyping
-- WordPress, Webflow
-
-**Tools & DevOps**
-
-- Git, GitHub, BitBucket
-- Docker, AWS, Azure, Vercel, Netlify
-- CI/CD, Redis
-- Google Analytics & Tag Manager
-
 
 ## Let's Connect
 
