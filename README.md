@@ -50,37 +50,9 @@ Modern portfolio built with Astro v5 and Tailwind CSS v4. Features automatic the
 
 ---
 
-### Production Work
+## Production Work
 
 Built and maintained large-scale React-based ordering and booking applications for [Foodie Holdings](https://foodieholdings.com), serving real customers across multiple brands including [Blast Catering](https://blastcatering.com), [Dish.ae](https://dish.ae), and [Plant Power Dubai](https://plantpowerdubai.com).
-
-## Professional Experience
-
-**Lead, Product Engineer** @ TechToday Developers Limited, Accra (September 2025 - Present)
-
-- Leading product engineering initiatives and technical strategy for web development projects
-- Architecting scalable solutions using modern JavaScript frameworks and best practices
-- Mentoring development team and establishing code quality standards
-- Collaborating with stakeholders to translate business requirements into technical roadmaps
-
-**Fullstack Web Developer** @ Meraki Kitchen LLC, Wyoming, USA (Remote - Part time) (January 2025 - Present)
-
-- Building and maintaining production website using Astro, React, and Tailwind CSS
-- Implementing SEO strategies and performance optimizations for improved search rankings
-- Integrating Netlify forms and analytics for lead generation and conversion tracking
-- Designing responsive, conversion-focused user interfaces with modern web standards
-
-**Frontend Developer** @ Foodie Holdings Limited, Dubai (March 2023 - July 2025)
-
-- Shipped multiple production features end-to-end using React, Next.js, Redux, and TypeScript
-- Led SEO initiatives ranking 4 websites in top 3 on Google for high-value keywords
-- Improved application stability and performance in live, customer-facing environment
-
-**Senior IT Support Specialist** @ REEF Technology, Dubai (November 2021 - February 2023)
-
-- Managed team of 3, directed Azure AD migration for 250+ users
-- Reduced device enrollment time by 50% through automation scripts
-- Ensured 99.9% uptime across 21 locations in the UAE
 
 ## Currently
 
@@ -93,7 +65,3 @@ Built and maintained large-scale React-based ordering and booking applications f
 - 🌐 Website: [jackosei.com](https://jackosei.com)
 - 💼 LinkedIn: [linkedin.com/in/jackosei](https://linkedin.com/in/jackosei)
 - 📧 Email: jackoseik@gmail.com
-
----
-
-_Turning business requirements into scalable web solutions._
