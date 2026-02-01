@@ -22,7 +22,7 @@ Based in Dubai, UAE. I build and optimize production websites and web applicatio
 
 **Tools & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,docker,aws,azure,vercel,netlify,redis,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,docker,aws,azure,vercel,netlify,redis,bash,cypress&theme=dark)](https://skillicons.dev)
 
 ## Featured Projects
 
